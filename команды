@@ -1,0 +1,5 @@
+Для тестирования скрипта на одной статье:
+python debug/check_single_page.py --path documentation/first_steps/reg.html
+
+Для полного прогона всей документации:
+python stopword_crawler.py
